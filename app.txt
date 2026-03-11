@@ -1,4 +1,4 @@
-Hello from Feature A
+Hello from Feature A and Feature B
 Git is awesome
 Learning git deeply
 Git is becoming easy
